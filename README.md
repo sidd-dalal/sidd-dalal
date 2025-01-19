@@ -10,8 +10,8 @@ I'm a Cloud Computing enthusiast with hands-on experience in cloud operations, d
 ## 🚀 Skills
 
 - **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS, etc.), Microsoft Azure
-- **Programming Languages:** Python, SQL, C++, CSS, HTML
-- **DevOps Tools:** Git, GitLab, Jenkins, Docker, Terraform
+- **Programming Languages:** Python, SQL, C++, CSS, HTML, Shell Scripting
+- **DevOps Tools:** Git, GitLab, Jenkins, Docker, Terraform, Ansible
 - **Web Development:** WordPress, PHP, JavaScript
 - **Automation & Monitoring:** AWS CloudWatch, Cacti, Redis
 
